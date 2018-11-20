@@ -39,7 +39,7 @@ public class PrintABCUsingLock {
            if(state %3 == targetStatus){
                state++;
                i++;
-               System.out.print(name);
+               System.out.print(name+" ");
                //System.out.println("Thread :"+name+" and number is "+i);
            }
            lock.unlock();
