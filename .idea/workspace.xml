@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aad2dfe4-4d15-400d-92ac-6a290fa1ec57" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RandomTesting/out/production/RandomTesting/Main.class" afterPath="$PROJECT_DIR$/RandomTesting/out/production/RandomTesting/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RandomTesting/out/production/RandomTesting/semaphoreDemo/MyThread.class" afterPath="$PROJECT_DIR$/RandomTesting/out/production/RandomTesting/semaphoreDemo/MyThread.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PrintByThread/src/PrintABCUsingLock.java" afterPath="$PROJECT_DIR$/PrintByThread/src/PrintABCUsingLock.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RandomTesting/.idea/workspace.xml" afterPath="$PROJECT_DIR$/RandomTesting/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RandomTesting/src/Main.java" afterPath="$PROJECT_DIR$/RandomTesting/src/Main.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
