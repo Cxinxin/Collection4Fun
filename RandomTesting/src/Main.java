@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-import java.util.List;
 
 public class Main {
 
@@ -9,6 +7,8 @@ public class Main {
         new Thread(new Consumer(wareHouse)).start();
 
         //https://my.oschina.net/githubhty/blog/874082
+
+
     }
 
 }
